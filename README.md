@@ -1,3 +1,4 @@
 Yaroslau Barkouski
-HTML CSS Basics: https://www.codecademy.com/barik6700243651
+HTML CSS Basics: 
+https://www.codecademy.com/users/barik6700243651/achievements
 # rsschool-2019Q1-codeacademy
